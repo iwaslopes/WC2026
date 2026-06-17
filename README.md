@@ -1,4 +1,4 @@
-# ⚽ FIFA World Cup 2026 — Match Predictor
+# FIFA World Cup 2026 — Match Predictor
 
 A statistical model that predicts **every match of the 2026 FIFA World Cup** — all 104 games
 across the group stage and knockout rounds — producing **goals (scorelines), corners,
@@ -10,7 +10,7 @@ must be submitted for every fixture before a ball is kicked and are graded again
 rubric (exact scoreline, goal difference / total goals, corners, cards, winners, matchups
 and penalties, with later rounds carrying score multipliers).
 
-Runs on **numpy + pandas only** — no GPU, no heavy ML frameworks.
+Runs on **numpy + pandas only** 
 
 ## Quick start
 
@@ -103,6 +103,7 @@ The variable *weights* are learned, but the modelling choices are configurable:
   standalone experiments kept for reference.
 - Method choices (neutral venue, Poisson over neural nets, opponent-quality adjustment) are
   documented with the reasoning in `MODEL_HANDOFF.md`.
+- This uploaded version includes tweaks to the initial model. To improve it for the remaining games, the first 18 results of the 2026 WC were added.
 
 ## Tech stack
 
