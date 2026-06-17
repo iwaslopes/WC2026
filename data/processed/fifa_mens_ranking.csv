@@ -1,0 +1,212 @@
+rank,previousRank,team,countryCode,confederation,points,previousPoints,movement,team_key
+1,3,France,FRA,UEFA,1877.32,1870.0,2,france
+2,1,Spain,ESP,UEFA,1876.4,1877.18,-1,spain
+3,2,Argentina,ARG,CONMEBOL,1874.81,1873.33,-1,argentina
+4,4,England,ENG,UEFA,1825.97,1834.12,0,england
+5,6,Portugal,POR,UEFA,1763.83,1760.38,1,portugal
+6,5,Brazil,BRA,CONMEBOL,1761.16,1760.46,-1,brazil
+7,7,Netherlands,NED,UEFA,1757.87,1756.27,0,netherlands
+8,8,Morocco,MAR,CAF,1755.87,1736.57,0,morocco
+9,9,Belgium,BEL,UEFA,1734.71,1730.71,0,belgium
+10,10,Germany,GER,UEFA,1730.37,1724.15,0,germany
+11,11,Croatia,CRO,UEFA,1717.07,1716.88,0,croatia
+12,13,Italy,ITA,UEFA,1700.37,1702.06,1,italy
+13,14,Colombia,COL,CONMEBOL,1693.09,1701.3,1,colombia
+14,12,Senegal,SEN,CAF,1688.99,1706.83,-2,senegal
+15,16,Mexico,MEX,CONCACAF,1681.03,1675.75,1,mexico
+16,15,USA,USA,CONCACAF,1673.13,1681.88,-1,usa
+17,17,Uruguay,URU,CONMEBOL,1673.07,1672.62,0,uruguay
+18,19,Japan,JPN,AFC,1660.43,1650.12,1,japan
+19,18,Switzerland,SUI,UEFA,1649.4,1654.69,-1,switzerland
+20,21,Denmark,DEN,UEFA,1620.81,1616.75,1,denmark
+21,20,IR Iran,IRN,AFC,1615.3,1617.02,-1,ir iran
+22,25,Türkiye,TUR,UEFA,1599.04,1582.69,3,turkiye
+23,23,Ecuador,ECU,CONMEBOL,1594.78,1591.73,0,ecuador
+24,24,Austria,AUT,UEFA,1593.45,1585.51,0,austria
+25,22,Korea Republic,KOR,AFC,1588.66,1599.45,-3,korea republic
+26,26,Nigeria,NGA,CAF,1585.09,1581.55,0,nigeria
+27,27,Australia,AUS,AFC,1580.67,1574.01,0,australia
+28,28,Algeria,ALG,CAF,1564.26,1560.91,0,algeria
+29,31,Egypt,EGY,CAF,1563.24,1556.71,2,egypt
+30,29,Canada,CAN,CONCACAF,1556.48,1559.15,-1,canada
+31,32,Norway,NOR,UEFA,1550.94,1553.14,1,norway
+32,30,Ukraine,UKR,UEFA,1546.88,1557.47,-2,ukraine
+33,33,Panama,PAN,CONCACAF,1540.64,1539.47,0,panama
+34,37,Côte d'Ivoire,CIV,CAF,1532.98,1522.48,3,cote d'ivoire
+35,34,Poland,POL,UEFA,1528.0,1532.04,-1,poland
+36,36,Russia,RUS,UEFA,1525.6,1524.52,0,russia
+37,35,Wales,WAL,UEFA,1524.29,1529.71,-2,wales
+38,42,Sweden,SWE,UEFA,1514.77,1487.13,4,sweden
+39,39,Serbia,SRB,UEFA,1508.65,1506.34,0,serbia
+40,40,Paraguay,PAR,CONMEBOL,1503.5,1501.5,0,paraguay
+41,43,Czechia,CZE,UEFA,1501.38,1487.0,2,czechia
+42,41,Hungary,HUN,UEFA,1500.58,1496.29,-1,hungary
+43,38,Scotland,SCO,UEFA,1498.35,1506.77,-5,scotland
+44,47,Tunisia,TUN,CAF,1483.05,1479.04,3,tunisia
+45,45,Cameroon,CMR,CAF,1481.24,1482.39,0,cameroon
+46,48,Congo DR,COD,CAF,1478.35,1468.22,2,congo dr
+47,46,Greece,GRE,UEFA,1475.82,1480.38,-1,greece
+48,44,Slovakia,SVK,UEFA,1473.94,1485.65,-4,slovakia
+49,50,Venezuela,VEN,CONMEBOL,1468.05,1465.22,1,venezuela
+50,52,Uzbekistan,UZB,AFC,1465.34,1462.03,2,uzbekistan
+51,51,Costa Rica,CRC,CONCACAF,1459.9,1464.24,0,costa rica
+52,54,Mali,MLI,CAF,1459.13,1458.48,2,mali
+53,53,Peru,PER,CONMEBOL,1455.87,1459.57,0,peru
+54,55,Chile,CHI,CONMEBOL,1455.28,1457.84,1,chile
+55,56,Qatar,QAT,AFC,1454.96,1454.96,1,qatar
+56,49,Romania,ROU,UEFA,1451.16,1465.78,-7,romania
+57,58,Iraq,IRQ,AFC,1447.14,1436.94,1,iraq
+58,57,Slovenia,SVN,UEFA,1446.44,1447.31,-1,slovenia
+59,59,Republic of Ireland,IRL,UEFA,1436.63,1436.04,0,republic of ireland
+60,60,South Africa,RSA,CAF,1429.73,1432.76,0,south africa
+61,61,Saudi Arabia,KSA,AFC,1421.43,1429.48,0,saudi arabia
+62,62,Burkina Faso,BFA,CAF,1412.49,1412.79,0,burkina faso
+63,64,Jordan,JOR,AFC,1391.45,1388.93,1,jordan
+64,63,Albania,ALB,UEFA,1388.06,1401.07,-1,albania
+65,71,Bosnia and Herzegovina,BIH,UEFA,1385.84,1362.37,6,bosnia and herzegovina
+66,65,Honduras,HON,CONCACAF,1380.27,1379.54,-1,honduras
+67,66,North Macedonia,MKD,UEFA,1372.04,1378.57,-1,north macedonia
+68,68,United Arab Emirates,UAE,AFC,1370.47,1370.47,0,united arab emirates
+69,67,Cabo Verde,CPV,CAF,1366.13,1370.49,-2,cabo verde
+70,69,Northern Ireland,NIR,UEFA,1362.16,1366.02,-1,northern ireland
+71,70,Jamaica,JAM,CONCACAF,1358.0,1362.46,-1,jamaica
+72,73,Georgia,GEO,UEFA,1350.18,1347.88,1,georgia
+73,75,Finland,FIN,UEFA,1346.41,1341.81,2,finland
+74,72,Ghana,GHA,CAF,1346.31,1351.09,-2,ghana
+75,74,Iceland,ISL,UEFA,1345.07,1344.72,-1,iceland
+76,76,Bolivia,BOL,CONMEBOL,1329.42,1330.52,0,bolivia
+77,77,Israel,ISR,UEFA,1328.33,1328.14,0,israel
+78,79,Kosovo,KOS,UEFA,1318.83,1308.84,1,kosovo
+79,78,Oman,OMA,AFC,1313.46,1313.46,-1,oman
+80,80,Guinea,GUI,CAF,1300.01,1307.05,0,guinea
+81,82,Montenegro,MNE,UEFA,1295.52,1297.09,1,montenegro
+82,81,Curaçao,CUW,CONCACAF,1294.65,1302.7,-1,curacao
+83,83,Haiti,HAI,CONCACAF,1291.71,1294.49,0,haiti
+84,84,Syria,SYR,AFC,1288.56,1282.62,0,syria
+85,85,New Zealand,NZL,OFC,1281.57,1279.25,0,new zealand
+86,87,Bulgaria,BUL,UEFA,1278.9,1272.19,1,bulgaria
+87,86,Gabon,GAB,CAF,1272.51,1276.28,-1,gabon
+88,88,Uganda,UGA,CAF,1264.09,1264.09,0,uganda
+89,89,Angola,ANG,CAF,1263.1,1263.1,0,angola
+90,92,Benin,BEN,CAF,1258.98,1250.05,2,benin
+91,90,Bahrain,BHR,AFC,1258.53,1258.53,-1,bahrain
+92,91,Zambia,ZAM,CAF,1255.82,1256.68,-1,zambia
+93,96,Thailand,THA,AFC,1252.14,1243.27,3,thailand
+94,93,China PR,CHN,AFC,1251.6,1249.06,-1,china pr
+95,95,Palestine,PLE,AFC,1244.73,1244.73,0,palestine
+96,94,Guatemala,GUA,CONCACAF,1243.47,1245.77,-2,guatemala
+97,98,Belarus,BLR,UEFA,1235.82,1227.09,1,belarus
+98,102,Luxembourg,LUX,UEFA,1227.77,1218.91,4,luxembourg
+99,108,Vietnam,VIE,AFC,1225.68,1189.51,9,vietnam
+100,99,El Salvador,SLV,CONCACAF,1225.26,1226.65,-1,el salvador
+101,101,Mozambique,MOZ,CAF,1224.31,1224.31,0,mozambique
+102,97,Trinidad and Tobago,TRI,CONCACAF,1222.94,1227.32,-5,trinidad and tobago
+103,100,Tajikistan,TJK,AFC,1221.78,1224.93,-3,tajikistan
+104,104,Madagascar,MAD,CAF,1203.76,1198.87,0,madagascar
+105,107,Equatorial Guinea,EQG,CAF,1195.2,1190.01,2,equatorial guinea
+106,105,Armenia,ARM,UEFA,1191.42,1196.08,-1,armenia
+107,103,Kyrgyz Republic,KGZ,AFC,1191.14,1201.22,-4,kyrgyz republic
+108,109,Lebanon,LBN,AFC,1187.96,1187.96,1,lebanon
+109,106,Comoros,COM,CAF,1187.91,1193.49,-3,comoros
+110,114,Kazakhstan,KAZ,UEFA,1182.96,1173.0,4,kazakhstan
+111,113,Kenya,KEN,CAF,1182.23,1179.54,2,kenya
+112,112,Libya,LBY,CAF,1182.08,1183.06,0,libya
+113,110,Tanzania,TAN,CAF,1180.27,1186.14,-3,tanzania
+114,111,Niger,NIG,CAF,1179.66,1185.09,-3,niger
+115,115,Mauritania,MTN,CAF,1170.72,1171.35,0,mauritania
+116,116,The Gambia,GAM,CAF,1160.38,1161.55,0,the gambia
+117,117,Sudan,SDN,CAF,1157.22,1157.22,0,sudan
+118,119,Korea DPR,PRK,AFC,1151.05,1151.05,1,korea dpr
+119,120,Sierra Leone,SLE,CAF,1148.98,1149.1,1,sierra leone
+120,118,Namibia,NAM,CAF,1148.84,1153.22,-2,namibia
+121,124,Togo,TOG,CAF,1147.31,1140.35,3,togo
+122,122,Indonesia,IDN,AFC,1144.88,1144.73,0,indonesia
+123,125,Faroe Islands,FRO,UEFA,1137.14,1135.42,2,faroe islands
+124,127,Azerbaijan,AZE,UEFA,1136.67,1132.97,3,azerbaijan
+125,123,Suriname,SUR,CONCACAF,1132.43,1140.54,-2,suriname
+126,128,Cyprus,CYP,UEFA,1128.33,1128.5,2,cyprus
+127,126,Malawi,MWI,CAF,1128.03,1133.75,-1,malawi
+128,130,Rwanda,RWA,CAF,1126.62,1117.78,2,rwanda
+129,129,Estonia,EST,UEFA,1121.1,1123.11,0,estonia
+130,132,Zimbabwe,ZIM,CAF,1118.12,1113.61,2,zimbabwe
+131,131,Nicaragua,NCA,CONCACAF,1115.13,1116.86,0,nicaragua
+132,133,Guinea-Bissau,GNB,CAF,1108.38,1108.09,1,guinea-bissau
+133,134,Congo,CGO,CAF,1105.96,1105.96,1,congo
+134,135,Kuwait,KUW,AFC,1105.1,1105.1,1,kuwait
+135,136,Philippines,PHI,AFC,1094.1,1090.95,1,philippines
+136,141,India,IND,AFC,1091.03,1079.52,5,india
+137,139,Latvia,LVA,UEFA,1090.57,1082.68,2,latvia
+138,121,Malaysia,MAS,AFC,1086.22,1145.89,-17,malaysia
+139,138,Central African Republic,CTA,CAF,1083.57,1083.57,-1,central african republic
+140,140,Liberia,LBR,CAF,1079.02,1081.46,0,liberia
+141,137,Turkmenistan,TKM,AFC,1078.65,1087.52,-4,turkmenistan
+142,145,Burundi,BDI,CAF,1078.01,1060.22,3,burundi
+143,142,Dominican Republic,DOM,CONCACAF,1077.95,1077.49,-1,dominican republic
+144,147,Ethiopia,ETH,CAF,1071.55,1055.36,3,ethiopia
+145,143,Lesotho,LES,CAF,1067.13,1065.97,-2,lesotho
+146,144,Botswana,BOT,CAF,1063.63,1062.42,-2,botswana
+147,148,Singapore,SGP,AFC,1059.53,1050.35,1,singapore
+148,146,Lithuania,LTU,UEFA,1058.42,1056.34,-2,lithuania
+149,149,Yemen,YEM,AFC,1049.49,1049.49,0,yemen
+150,151,Guyana,GUY,CONCACAF,1049.32,1041.9,1,guyana
+151,150,New Caledonia,NCL,OFC,1036.95,1042.62,-1,new caledonia
+152,154,St Kitts and Nevis,SKN,CONCACAF,1036.33,1035.25,2,st kitts and nevis
+153,152,Solomon Islands,SOL,OFC,1031.89,1039.86,-1,solomon islands
+154,155,Fiji,FIJ,OFC,1029.7,1029.7,1,fiji
+155,153,"Hong Kong, China",HKG,AFC,1026.63,1038.14,-2,"hong kong, china"
+156,156,Puerto Rico,PUR,CONCACAF,1026.11,1020.07,0,puerto rico
+157,157,Tahiti,TAH,OFC,1019.04,1019.04,0,tahiti
+158,163,Myanmar,MYA,AFC,1011.88,990.81,5,myanmar
+159,158,Moldova,MDA,UEFA,1004.16,1012.64,-1,moldova
+160,160,Vanuatu,VAN,OFC,997.01,997.01,0,vanuatu
+161,161,Malta,MLT,UEFA,987.73,996.59,0,malta
+162,165,Antigua and Barbuda,ATG,CONCACAF,986.58,986.58,3,antigua and barbuda
+163,164,Grenada,GRN,CONCACAF,982.57,989.59,1,grenada
+164,166,Cuba,CUB,CONCACAF,981.42,980.49,2,cuba
+165,159,Eswatini,SWZ,CAF,979.01,1010.52,-6,eswatini
+166,169,Bermuda,BER,CONCACAF,976.87,976.87,3,bermuda
+167,167,St Lucia,LCA,CONCACAF,976.71,980.28,0,st lucia
+168,170,Papua New Guinea,PNG,OFC,974.9,974.9,2,papua new guinea
+169,162,Afghanistan,AFG,AFC,972.75,991.19,-7,afghanistan
+170,168,South Sudan,SSD,CAF,970.94,977.5,-2,south sudan
+171,171,St Vincent and the Grenadines,VIN,CONCACAF,968.27,963.74,0,st vincent and the grenadines
+172,173,Maldives,MDV,AFC,954.93,945.02,1,maldives
+173,172,Andorra,AND,UEFA,945.34,949.44,-1,andorra
+174,174,Chinese Taipei,TPE,AFC,923.78,938.21,0,chinese taipei
+175,175,Montserrat,MSR,CONCACAF,916.75,916.75,0,montserrat
+176,182,Nepal,NEP,AFC,914.54,902.52,6,nepal
+177,179,Cambodia,CAM,AFC,911.54,911.54,2,cambodia
+178,176,Mauritius,MRI,CAF,911.49,915.51,-2,mauritius
+179,178,Barbados,BRB,CONCACAF,909.89,914.42,-1,barbados
+180,181,Belize,BLZ,CONCACAF,907.0,910.74,1,belize
+181,180,Bangladesh,BAN,AFC,899.53,911.1,-1,bangladesh
+182,183,Dominica,DMA,CONCACAF,897.69,901.37,1,dominica
+183,177,Chad,CHA,CAF,896.85,914.65,-6,chad
+184,184,Eritrea,ERI,CAF,887.06,0.0,0,eritrea
+185,190,Laos,LAO,AFC,885.03,871.16,5,laos
+186,192,Bhutan,BHU,AFC,880.55,867.86,6,bhutan
+187,185,Mongolia,MNG,AFC,879.75,879.75,-2,mongolia
+188,186,Cook Islands,COK,OFC,877.53,877.53,-2,cook islands
+189,191,Aruba,ARU,CONCACAF,877.3,867.94,2,aruba
+190,187,Samoa,SAM,OFC,876.41,876.41,-3,samoa
+191,194,Sri Lanka,SRI,AFC,871.82,857.4,3,sri lanka
+192,184,American Samoa,ASA,OFC,871.61,883.17,-8,american samoa
+193,188,Brunei Darussalam,BRU,AFC,863.09,875.78,-5,brunei darussalam
+194,193,Macau,MAC,AFC,858.03,865.29,-1,macau
+195,195,Cayman Islands,CAY,CONCACAF,855.45,851.74,0,cayman islands
+196,189,São Tomé and Príncipe,STP,CAF,855.44,871.63,-7,sao tome and principe
+197,196,Djibouti,DJI,CAF,853.58,847.03,-1,djibouti
+198,200,Somalia,SOM,CAF,839.17,828.9,2,somalia
+199,197,Tonga,TGA,OFC,835.64,835.64,-2,tonga
+200,198,Timor-Leste,TLS,AFC,825.64,835.55,-2,timor-leste
+201,201,Guam,GUM,AFC,825.43,823.08,0,guam
+202,199,Pakistan,PAK,AFC,824.6,833.16,-3,pakistan
+203,202,Gibraltar,GIB,UEFA,810.14,818.03,-1,gibraltar
+204,203,Seychelles,SEY,CAF,804.16,805.33,-1,seychelles
+205,204,Turks and Caicos Islands,TCA,CONCACAF,803.98,803.98,-1,turks and caicos islands
+206,205,Liechtenstein,LIE,UEFA,803.57,799.8,-1,liechtenstein
+207,206,Bahamas,BAH,CONCACAF,786.82,796.6,-1,bahamas
+208,208,British Virgin Islands,VGB,CONCACAF,782.14,776.54,0,british virgin islands
+209,207,US Virgin Islands,VIR,CONCACAF,779.76,776.6,-2,us virgin islands
+210,209,Anguilla,AIA,CONCACAF,760.25,759.78,-1,anguilla
+211,210,San Marino,SMR,UEFA,726.33,726.03,-1,san marino

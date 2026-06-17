@@ -1,0 +1,26 @@
+{
+  "eafc_player_rows": 16228,
+  "eafc_team_rows": 156,
+  "model_metrics": {
+    "away_goal_mae": 0.8546553961026606,
+    "exact_score_rate_mode": 0.12289562289562289,
+    "home_goal_mae": 1.0465545799829568,
+    "training_rows": 11815,
+    "validation_rows": 1782,
+    "validation_start": "2024-09-09"
+  },
+  "official_last_official_update": "01 April 2026",
+  "official_next_official_update": "11 June 2026 (3 days)",
+  "placeholder_mapping": {
+    "fifa playoff 1": "congo dr",
+    "fifa playoff 2": "iraq",
+    "uefa playoff a": "bosnia and herzegovina",
+    "uefa playoff b": "sweden",
+    "uefa playoff c": "turkiye",
+    "uefa playoff d": "czechia"
+  },
+  "ranking_last_updated": "2026-04-01",
+  "ranking_next_update": "2026-06-10",
+  "ranking_source": "https://inside.fifa.com/fifa-world-ranking/men",
+  "results_rows_completed": 49373
+}

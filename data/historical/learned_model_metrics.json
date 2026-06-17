@@ -1,0 +1,108 @@
+{
+  "feature_columns": [
+    "fifa_points_diff",
+    "fifa_rank_advantage",
+    "own_recent_ppg",
+    "own_recent_gf",
+    "own_recent_ga",
+    "own_recent_gd",
+    "opp_recent_ppg",
+    "opp_recent_gf",
+    "opp_recent_ga",
+    "opp_recent_gd",
+    "own_cycle_ppg",
+    "own_cycle_gd",
+    "opp_cycle_ppg",
+    "opp_cycle_gd",
+    "own_prev_wc_ppg",
+    "own_prev_wc_gd",
+    "opp_prev_wc_ppg",
+    "opp_prev_wc_gd",
+    "host_diff",
+    "is_knockout"
+  ],
+  "training_world_cups": [
+    2014,
+    2018,
+    2022
+  ],
+  "training_matches": 192,
+  "goal_training_rows": 384,
+  "temporal_backtest": {
+    "folds": [
+      {
+        "matches": 64,
+        "goal_mae": 0.89961473616359,
+        "modal_exact_score_rate": 0.140625,
+        "poisson_outcome_accuracy": 0.53125,
+        "logit_outcome_accuracy": 0.515625,
+        "logit_log_loss": 1.2731415792629954,
+        "test_world_cup": 2018
+      },
+      {
+        "matches": 64,
+        "goal_mae": 0.9456021621584515,
+        "modal_exact_score_rate": 0.09375,
+        "poisson_outcome_accuracy": 0.515625,
+        "logit_outcome_accuracy": 0.46875,
+        "logit_log_loss": 1.123024870969474,
+        "test_world_cup": 2022
+      }
+    ],
+    "overall": {
+      "matches": 128,
+      "goal_mae": 0.9226084491610207,
+      "modal_exact_score_rate": 0.1171875,
+      "poisson_outcome_accuracy": 0.5234375,
+      "logit_outcome_accuracy": 0.4921875,
+      "logit_log_loss": 1.1980832251162348
+    }
+  },
+  "leave_one_worldcup_out": {
+    "folds": [
+      {
+        "matches": 64,
+        "goal_mae": 0.9461239763438274,
+        "modal_exact_score_rate": 0.078125,
+        "poisson_outcome_accuracy": 0.59375,
+        "logit_outcome_accuracy": 0.59375,
+        "logit_log_loss": 1.0323823252831792,
+        "test_world_cup": 2014
+      },
+      {
+        "matches": 64,
+        "goal_mae": 0.8864977226926454,
+        "modal_exact_score_rate": 0.1875,
+        "poisson_outcome_accuracy": 0.53125,
+        "logit_outcome_accuracy": 0.546875,
+        "logit_log_loss": 1.1598584619130916,
+        "test_world_cup": 2018
+      },
+      {
+        "matches": 64,
+        "goal_mae": 0.9456021621584515,
+        "modal_exact_score_rate": 0.09375,
+        "poisson_outcome_accuracy": 0.515625,
+        "logit_outcome_accuracy": 0.46875,
+        "logit_log_loss": 1.123024870969474,
+        "test_world_cup": 2022
+      }
+    ],
+    "overall": {
+      "matches": 192,
+      "goal_mae": 0.9260746203983081,
+      "modal_exact_score_rate": 0.11979166666666667,
+      "poisson_outcome_accuracy": 0.546875,
+      "logit_outcome_accuracy": 0.5364583333333334,
+      "logit_log_loss": 1.105088552721915
+    }
+  },
+  "in_sample": {
+    "matches": 192,
+    "goal_mae": 0.8890144669275769,
+    "modal_exact_score_rate": 0.10416666666666667,
+    "poisson_outcome_accuracy": 0.578125,
+    "logit_outcome_accuracy": 0.59375,
+    "logit_log_loss": 0.8668625029037166
+  }
+}

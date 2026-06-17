@@ -1,0 +1,73 @@
+match_id,group,home_team,away_team,model_home_team,model_away_team,date_utc,venue,predicted_home_goals,predicted_away_goals,home_xg,away_xg,winning_team,corners,yellow_cards,red_cards,expected_score_points
+1,A,Mexico,South Africa,Mexico,South Africa,2026-06-11T19:00:00Z,"Estadio Azteca, Mexico City",1,0,1.736,0.585,home,9,4,0,32.007
+2,A,South Korea,UEFA Playoff D,Korea Republic,Czechia,2026-06-12T02:00:00Z,"Estadio Akron, Guadalajara",2,1,1.293,1.236,home,9,4,0,19.853
+3,B,Canada,UEFA Playoff A,Canada,Bosnia and Herzegovina,2026-06-12T19:00:00Z,"BMO Field, Toronto",1,0,1.551,0.718,home,9,4,0,28.752
+4,D,USA,Paraguay,USA,Paraguay,2026-06-13T01:00:00Z,"SoFi Stadium, Los Angeles",1,0,1.706,0.817,home,9,4,0,28.684
+5,D,Australia,UEFA Playoff C,Australia,Türkiye,2026-06-13T04:00:00Z,"BC Place, Vancouver",1,2,0.94,1.702,away,9,4,0,27.282
+6,B,Qatar,Switzerland,Qatar,Switzerland,2026-06-13T19:00:00Z,"Levi's Stadium, Santa Clara",1,2,0.716,2.258,away,9,4,0,34.029
+7,C,Brazil,Morocco,Brazil,Morocco,2026-06-13T22:00:00Z,"MetLife Stadium, East Rutherford",2,1,1.678,0.888,home,9,4,0,27.579
+8,C,Haiti,Scotland,Haiti,Scotland,2026-06-14T01:00:00Z,"Gillette Stadium, Boston",0,2,0.703,2.085,away,9,4,0,32.997
+9,E,Germany,Curaçao,Germany,Curaçao,2026-06-14T17:00:00Z,"NRG Stadium, Houston",4,0,4.452,0.386,home,9,4,0,42.926
+10,F,Netherlands,Japan,Netherlands,Japan,2026-06-14T20:00:00Z,"AT&T Stadium, Dallas",2,1,1.849,0.891,home,9,4,0,29.165
+11,E,Côte d'Ivoire,Ecuador,Côte d'Ivoire,Ecuador,2026-06-14T23:00:00Z,"Lincoln Financial Field, Philadelphia",1,0,1.318,0.937,home,9,4,0,23.652
+12,F,UEFA Playoff B,Tunisia,Sweden,Tunisia,2026-06-15T02:00:00Z,"Estadio BBVA, Monterrey",2,1,1.873,0.869,home,9,4,0,29.603
+13,H,Spain,Cabo Verde,Spain,Cabo Verde,2026-06-15T16:00:00Z,"Mercedes-Benz Stadium, Atlanta",5,0,5.048,0.372,home,9,4,0,43.332
+14,G,Belgium,Egypt,Belgium,Egypt,2026-06-15T19:00:00Z,"Lumen Field, Seattle",2,1,2.319,0.749,home,9,4,0,34.086
+15,H,Saudi Arabia,Uruguay,Saudi Arabia,Uruguay,2026-06-15T22:00:00Z,"Hard Rock Stadium, Miami",0,1,0.64,1.786,away,9,4,0,31.607
+16,G,Iran,New Zealand,IR Iran,New Zealand,2026-06-16T01:00:00Z,"SoFi Stadium, Los Angeles",2,0,2.283,0.606,home,9,4,0,35.453
+17,J,Austria,Jordan,Austria,Jordan,2026-06-16T04:00:00Z,"Levi's Stadium, Santa Clara",2,1,2.353,0.79,home,9,4,0,33.908
+18,I,France,Senegal,France,Senegal,2026-06-16T19:00:00Z,"MetLife Stadium, East Rutherford",2,1,2.332,0.809,home,9,4,0,33.602
+19,I,FIFA Playoff 2,Norway,Iraq,Norway,2026-06-16T22:00:00Z,"Gillette Stadium, Boston",0,2,0.698,2.067,away,9,4,0,32.919
+20,J,Argentina,Algeria,Argentina,Algeria,2026-06-17T01:00:00Z,"GEHA Field at Arrowhead Stadium, Kansas City",2,0,2.283,0.678,home,9,4,0,34.616
+21,K,Portugal,FIFA Playoff 1,Portugal,Congo DR,2026-06-17T17:00:00Z,"NRG Stadium, Houston",2,0,2.701,0.596,home,9,4,0,37.572
+22,L,England,Croatia,England,Croatia,2026-06-17T20:00:00Z,"AT&T Stadium, Dallas",2,1,1.958,0.857,home,9,4,0,30.452
+23,L,Ghana,Panama,Ghana,Panama,2026-06-17T23:00:00Z,"BMO Field, Toronto",1,0,1.501,0.998,home,9,4,0,24.634
+24,K,Uzbekistan,Colombia,Uzbekistan,Colombia,2026-06-18T02:00:00Z,"Estadio Azteca, Mexico City",1,2,0.847,1.794,away,9,4,0,29.121
+25,A,UEFA Playoff D,South Africa,Czechia,South Africa,2026-06-18T16:00:00Z,"Mercedes-Benz Stadium, Atlanta",2,1,1.95,0.755,home,9,4,0,31.434
+26,B,Switzerland,UEFA Playoff A,Switzerland,Bosnia and Herzegovina,2026-06-18T19:00:00Z,"SoFi Stadium, Los Angeles",2,1,2.113,0.807,home,9,4,0,32.164
+27,B,Canada,Qatar,Canada,Qatar,2026-06-18T22:00:00Z,"BC Place, Vancouver",1,0,1.807,0.574,home,9,4,0,32.631
+28,A,Mexico,South Korea,Mexico,Korea Republic,2026-06-19T01:00:00Z,"Estadio Akron, Guadalajara",1,0,1.261,0.879,home,9,4,0,23.812
+29,D,UEFA Playoff C,Paraguay,Türkiye,Paraguay,2026-06-19T04:00:00Z,"Levi's Stadium, Santa Clara",1,0,1.553,0.946,home,9,4,0,25.753
+30,D,USA,Australia,USA,Australia,2026-06-19T19:00:00Z,"Lumen Field, Seattle",2,1,2.07,0.725,home,9,4,0,32.665
+31,C,Scotland,Morocco,Scotland,Morocco,2026-06-19T22:00:00Z,"Gillette Stadium, Boston",0,1,0.912,1.532,away,9,4,0,25.995
+32,C,Brazil,Haiti,Brazil,Haiti,2026-06-20T01:00:00Z,"Lincoln Financial Field, Philadelphia",4,0,4.74,0.394,home,9,4,0,43.093
+33,F,Tunisia,Japan,Tunisia,Japan,2026-06-20T04:00:00Z,"Estadio BBVA, Monterrey",1,2,0.737,1.951,away,9,4,0,31.619
+34,F,Netherlands,UEFA Playoff B,Netherlands,Sweden,2026-06-20T17:00:00Z,"NRG Stadium, Houston",2,1,2.394,0.804,home,9,4,0,34.02
+35,E,Germany,Côte d'Ivoire,Germany,Côte d'Ivoire,2026-06-20T20:00:00Z,"BMO Field, Toronto",2,1,2.056,0.802,home,9,4,0,31.783
+36,E,Ecuador,Curaçao,Ecuador,Curaçao,2026-06-21T00:00:00Z,"GEHA Field at Arrowhead Stadium, Kansas City",2,0,2.212,0.531,home,9,4,0,35.915
+37,H,Spain,Saudi Arabia,Spain,Saudi Arabia,2026-06-21T16:00:00Z,"Mercedes-Benz Stadium, Atlanta",3,0,3.835,0.448,home,9,4,0,41.814
+38,G,Belgium,Iran,Belgium,IR Iran,2026-06-21T19:00:00Z,"SoFi Stadium, Los Angeles",2,1,2.003,0.925,home,9,4,0,30.128
+39,H,Uruguay,Cabo Verde,Uruguay,Cabo Verde,2026-06-21T22:00:00Z,"Hard Rock Stadium, Miami",2,0,2.754,0.457,home,9,4,0,39.148
+40,G,New Zealand,Egypt,New Zealand,Egypt,2026-06-22T01:00:00Z,"BC Place, Vancouver",0,1,0.774,1.556,away,9,4,0,28.031
+41,J,Argentina,Austria,Argentina,Austria,2026-06-22T17:00:00Z,"AT&T Stadium, Dallas",2,1,2.078,0.735,home,9,4,0,32.622
+42,I,France,FIFA Playoff 2,France,Iraq,2026-06-22T21:00:00Z,"Lincoln Financial Field, Philadelphia",4,0,4.132,0.372,home,9,4,0,42.635
+43,I,Norway,Senegal,Norway,Senegal,2026-06-23T00:00:00Z,"MetLife Stadium, East Rutherford",2,1,1.439,1.345,home,9,4,0,20.517
+44,J,Jordan,Algeria,Jordan,Algeria,2026-06-23T03:00:00Z,"Levi's Stadium, Santa Clara",1,2,0.925,1.904,away,9,4,0,29.307
+45,K,Portugal,Uzbekistan,Portugal,Uzbekistan,2026-06-23T17:00:00Z,"NRG Stadium, Houston",2,0,2.727,0.579,home,9,4,0,37.837
+46,L,England,Ghana,England,Ghana,2026-06-23T20:00:00Z,"Gillette Stadium, Boston",2,0,2.7,0.522,home,9,4,0,38.317
+47,L,Panama,Croatia,Panama,Croatia,2026-06-23T23:00:00Z,"BMO Field, Toronto",1,2,0.802,2.253,away,9,4,0,33.176
+48,K,Colombia,FIFA Playoff 1,Colombia,Congo DR,2026-06-24T02:00:00Z,"Estadio Akron, Guadalajara",2,1,1.955,0.757,home,9,4,0,31.445
+49,B,Switzerland,Canada,Switzerland,Canada,2026-06-24T19:00:00Z,"BC Place, Vancouver",2,1,1.834,0.919,home,9,4,0,28.742
+50,B,UEFA Playoff A,Qatar,Bosnia and Herzegovina,Qatar,2026-06-24T19:00:00Z,"Lumen Field, Seattle",2,1,1.596,0.999,home,9,4,0,25.586
+51,C,Scotland,Brazil,Scotland,Brazil,2026-06-24T22:00:00Z,"Hard Rock Stadium, Miami",0,2,0.706,2.145,away,9,4,0,33.39
+52,C,Morocco,Haiti,Morocco,Haiti,2026-06-24T22:00:00Z,"Mercedes-Benz Stadium, Atlanta",3,0,3.473,0.445,home,9,4,0,41.272
+53,A,UEFA Playoff D,Mexico,Czechia,Mexico,2026-06-25T01:00:00Z,"Estadio Azteca, Mexico City",1,0,1.448,0.961,home,9,4,0,24.609
+54,A,South Africa,South Korea,South Africa,Korea Republic,2026-06-25T01:00:00Z,"Estadio BBVA, Monterrey",1,2,0.91,1.657,away,9,4,0,27.145
+55,E,Curaçao,Côte d'Ivoire,Curaçao,Côte d'Ivoire,2026-06-25T20:00:00Z,"Lincoln Financial Field, Philadelphia",0,2,0.628,2.581,away,9,4,0,36.74
+56,E,Ecuador,Germany,Ecuador,Germany,2026-06-25T20:00:00Z,"MetLife Stadium, East Rutherford",0,1,0.694,1.833,away,9,4,0,31.205
+57,F,Japan,UEFA Playoff B,Japan,Sweden,2026-06-25T23:00:00Z,"AT&T Stadium, Dallas",2,1,1.551,0.99,home,9,4,0,25.197
+58,F,Tunisia,Netherlands,Tunisia,Netherlands,2026-06-25T23:00:00Z,"GEHA Field at Arrowhead Stadium, Kansas City",0,3,0.611,3.029,away,9,4,0,38.635
+59,D,USA,UEFA Playoff C,USA,Türkiye,2026-06-26T02:00:00Z,"SoFi Stadium, Los Angeles",2,1,1.55,1.161,home,9,4,0,23.463
+60,D,Paraguay,Australia,Paraguay,Australia,2026-06-26T02:00:00Z,"Levi's Stadium, Santa Clara",1,0,1.397,0.897,home,9,4,0,24.954
+61,I,Norway,France,Norway,France,2026-06-26T19:00:00Z,"Gillette Stadium, Boston",1,2,0.887,2.304,away,9,4,0,32.688
+62,I,Senegal,FIFA Playoff 2,Senegal,Iraq,2026-06-26T19:00:00Z,"BMO Field, Toronto",2,0,2.416,0.547,home,9,4,0,36.851
+63,H,Cabo Verde,Saudi Arabia,Cabo Verde,Saudi Arabia,2026-06-27T00:00:00Z,"NRG Stadium, Houston",0,1,1.002,1.346,away,9,4,0,23.119
+64,H,Uruguay,Spain,Uruguay,Spain,2026-06-27T00:00:00Z,"Estadio Akron, Guadalajara",1,2,0.926,1.759,away,9,4,0,27.97
+65,G,Egypt,Iran,Egypt,IR Iran,2026-06-27T03:00:00Z,"Lumen Field, Seattle",0,1,0.988,1.243,away,9,4,0,22.231
+66,G,New Zealand,Belgium,New Zealand,Belgium,2026-06-27T03:00:00Z,"BC Place, Vancouver",0,3,0.568,3.292,away,9,4,0,39.898
+67,L,Panama,England,Panama,England,2026-06-27T21:00:00Z,"MetLife Stadium, East Rutherford",0,3,0.534,3.169,away,9,4,0,39.795
+68,L,Croatia,Ghana,Croatia,Ghana,2026-06-27T21:00:00Z,"Lincoln Financial Field, Philadelphia",2,1,1.894,0.798,home,9,4,0,30.524
+69,K,Colombia,Portugal,Colombia,Portugal,2026-06-27T23:30:00Z,"Hard Rock Stadium, Miami",1,2,1.089,1.78,away,9,4,0,26.498
+70,K,FIFA Playoff 1,Uzbekistan,Congo DR,Uzbekistan,2026-06-27T23:30:00Z,"Mercedes-Benz Stadium, Atlanta",1,0,1.138,0.907,home,9,4,0,22.121
+71,J,Algeria,Austria,Algeria,Austria,2026-06-28T02:00:00Z,"GEHA Field at Arrowhead Stadium, Kansas City",0,1,1.202,1.24,away,9,4,0,19.66
+72,J,Jordan,Argentina,Jordan,Argentina,2026-06-28T02:00:00Z,"AT&T Stadium, Dallas",0,3,0.504,3.173,away,9,4,0,40.054

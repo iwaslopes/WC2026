@@ -1,0 +1,193 @@
+date,home_team,away_team,home_score,away_score,tournament,city,country,neutral,home_key,away_key,world_cup,home_fifa_rank,home_fifa_points,home_fifa_release_date,away_fifa_rank,away_fifa_points,away_fifa_release_date,fifa_rank_diff,fifa_points_diff
+2014-06-12,Brazil,Croatia,3,1,FIFA World Cup,São Paulo,Brazil,False,brazil,croatia,2014,3,1242.0,2014-06-05,18,903.0,2014-06-05,-15,339.0
+2014-06-13,Chile,Australia,3,1,FIFA World Cup,Cuiabá,Brazil,True,chile,australia,2014,14,1026.0,2014-06-05,62,526.0,2014-06-05,-48,500.0
+2014-06-13,Mexico,Cameroon,1,0,FIFA World Cup,Natal,Brazil,True,mexico,cameroon,2014,20,882.0,2014-06-05,56,558.0,2014-06-05,-36,324.0
+2014-06-13,Spain,Netherlands,1,5,FIFA World Cup,Salvador,Brazil,True,spain,netherlands,2014,1,1485.0,2014-06-05,15,981.0,2014-06-05,-14,504.0
+2014-06-14,Uruguay,Costa Rica,1,3,FIFA World Cup,Fortaleza,Brazil,True,uruguay,costa rica,2014,7,1147.0,2014-06-05,28,762.0,2014-06-05,-21,385.0
+2014-06-14,Ivory Coast,Japan,2,1,FIFA World Cup,Recife,Brazil,True,cote d'ivoire,japan,2014,23,809.0,2014-06-05,46,626.0,2014-06-05,-23,183.0
+2014-06-14,England,Italy,1,2,FIFA World Cup,Manaus,Brazil,True,england,italy,2014,10,1090.0,2014-06-05,9,1104.0,2014-06-05,1,-14.0
+2014-06-14,Colombia,Greece,3,0,FIFA World Cup,Belo Horizonte,Brazil,True,colombia,greece,2014,8,1137.0,2014-06-05,12,1064.0,2014-06-05,-4,73.0
+2014-06-15,Argentina,Bosnia and Herzegovina,2,1,FIFA World Cup,Rio de Janeiro,Brazil,True,argentina,bosnia and herzegovina,2014,5,1175.0,2014-06-05,21,873.0,2014-06-05,-16,302.0
+2014-06-15,France,Honduras,3,0,FIFA World Cup,Porto Alegre,Brazil,True,france,honduras,2014,17,913.0,2014-06-05,33,731.0,2014-06-05,-16,182.0
+2014-06-15,Switzerland,Ecuador,2,1,FIFA World Cup,Brasília,Brazil,True,switzerland,ecuador,2014,6,1149.0,2014-06-05,26,791.0,2014-06-05,-20,358.0
+2014-06-16,Germany,Portugal,4,0,FIFA World Cup,Salvador,Brazil,True,germany,portugal,2014,2,1300.0,2014-06-05,4,1189.0,2014-06-05,-2,111.0
+2014-06-16,Ghana,United States,1,2,FIFA World Cup,Natal,Brazil,True,ghana,usa,2014,37,704.0,2014-06-05,13,1035.0,2014-06-05,24,-331.0
+2014-06-16,Iran,Nigeria,0,0,FIFA World Cup,Curitiba,Brazil,True,ir iran,nigeria,2014,43,641.0,2014-06-05,44,640.0,2014-06-05,-1,1.0
+2014-06-17,Belgium,Algeria,2,1,FIFA World Cup,Belo Horizonte,Brazil,True,belgium,algeria,2014,11,1074.0,2014-06-05,22,858.0,2014-06-05,-11,216.0
+2014-06-17,Brazil,Mexico,0,0,FIFA World Cup,Fortaleza,Brazil,False,brazil,mexico,2014,3,1242.0,2014-06-05,20,882.0,2014-06-05,-17,360.0
+2014-06-17,Russia,South Korea,1,1,FIFA World Cup,Cuiabá,Brazil,True,russia,korea republic,2014,19,893.0,2014-06-05,57,547.0,2014-06-05,-38,346.0
+2014-06-18,Spain,Chile,0,2,FIFA World Cup,Rio de Janeiro,Brazil,True,spain,chile,2014,1,1485.0,2014-06-05,14,1026.0,2014-06-05,-13,459.0
+2014-06-18,Australia,Netherlands,2,3,FIFA World Cup,Curitiba,Brazil,True,australia,netherlands,2014,62,526.0,2014-06-05,15,981.0,2014-06-05,47,-455.0
+2014-06-18,Cameroon,Croatia,0,4,FIFA World Cup,Manaus,Brazil,True,cameroon,croatia,2014,56,558.0,2014-06-05,18,903.0,2014-06-05,38,-345.0
+2014-06-19,Uruguay,England,2,1,FIFA World Cup,São Paulo,Brazil,True,uruguay,england,2014,7,1147.0,2014-06-05,10,1090.0,2014-06-05,-3,57.0
+2014-06-19,Colombia,Ivory Coast,2,1,FIFA World Cup,Brasília,Brazil,True,colombia,cote d'ivoire,2014,8,1137.0,2014-06-05,23,809.0,2014-06-05,-15,328.0
+2014-06-19,Japan,Greece,0,0,FIFA World Cup,Natal,Brazil,True,japan,greece,2014,46,626.0,2014-06-05,12,1064.0,2014-06-05,34,-438.0
+2014-06-20,Honduras,Ecuador,1,2,FIFA World Cup,Curitiba,Brazil,True,honduras,ecuador,2014,33,731.0,2014-06-05,26,791.0,2014-06-05,7,-60.0
+2014-06-20,Italy,Costa Rica,0,1,FIFA World Cup,Recife,Brazil,True,italy,costa rica,2014,9,1104.0,2014-06-05,28,762.0,2014-06-05,-19,342.0
+2014-06-20,Switzerland,France,2,5,FIFA World Cup,Salvador,Brazil,True,switzerland,france,2014,6,1149.0,2014-06-05,17,913.0,2014-06-05,-11,236.0
+2014-06-21,Argentina,Iran,1,0,FIFA World Cup,Belo Horizonte,Brazil,True,argentina,ir iran,2014,5,1175.0,2014-06-05,43,641.0,2014-06-05,-38,534.0
+2014-06-21,Germany,Ghana,2,2,FIFA World Cup,Fortaleza,Brazil,True,germany,ghana,2014,2,1300.0,2014-06-05,37,704.0,2014-06-05,-35,596.0
+2014-06-21,Nigeria,Bosnia and Herzegovina,1,0,FIFA World Cup,Cuiabá,Brazil,True,nigeria,bosnia and herzegovina,2014,44,640.0,2014-06-05,21,873.0,2014-06-05,23,-233.0
+2014-06-22,South Korea,Algeria,2,4,FIFA World Cup,Porto Alegre,Brazil,True,korea republic,algeria,2014,57,547.0,2014-06-05,22,858.0,2014-06-05,35,-311.0
+2014-06-22,Belgium,Russia,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,belgium,russia,2014,11,1074.0,2014-06-05,19,893.0,2014-06-05,-8,181.0
+2014-06-22,United States,Portugal,2,2,FIFA World Cup,Manaus,Brazil,True,usa,portugal,2014,13,1035.0,2014-06-05,4,1189.0,2014-06-05,9,-154.0
+2014-06-23,Netherlands,Chile,2,0,FIFA World Cup,São Paulo,Brazil,True,netherlands,chile,2014,15,981.0,2014-06-05,14,1026.0,2014-06-05,1,-45.0
+2014-06-23,Croatia,Mexico,1,3,FIFA World Cup,Recife,Brazil,True,croatia,mexico,2014,18,903.0,2014-06-05,20,882.0,2014-06-05,-2,21.0
+2014-06-23,Australia,Spain,0,3,FIFA World Cup,Curitiba,Brazil,True,australia,spain,2014,62,526.0,2014-06-05,1,1485.0,2014-06-05,61,-959.0
+2014-06-23,Brazil,Cameroon,4,1,FIFA World Cup,Brasília,Brazil,False,brazil,cameroon,2014,3,1242.0,2014-06-05,56,558.0,2014-06-05,-53,684.0
+2014-06-24,Costa Rica,England,0,0,FIFA World Cup,Belo Horizonte,Brazil,True,costa rica,england,2014,28,762.0,2014-06-05,10,1090.0,2014-06-05,18,-328.0
+2014-06-24,Greece,Ivory Coast,2,1,FIFA World Cup,Fortaleza,Brazil,True,greece,cote d'ivoire,2014,12,1064.0,2014-06-05,23,809.0,2014-06-05,-11,255.0
+2014-06-24,Italy,Uruguay,0,1,FIFA World Cup,Natal,Brazil,True,italy,uruguay,2014,9,1104.0,2014-06-05,7,1147.0,2014-06-05,2,-43.0
+2014-06-24,Japan,Colombia,1,4,FIFA World Cup,Cuiabá,Brazil,True,japan,colombia,2014,46,626.0,2014-06-05,8,1137.0,2014-06-05,38,-511.0
+2014-06-25,Bosnia and Herzegovina,Iran,3,1,FIFA World Cup,Salvador,Brazil,True,bosnia and herzegovina,ir iran,2014,21,873.0,2014-06-05,43,641.0,2014-06-05,-22,232.0
+2014-06-25,Ecuador,France,0,0,FIFA World Cup,Rio de Janeiro,Brazil,True,ecuador,france,2014,26,791.0,2014-06-05,17,913.0,2014-06-05,9,-122.0
+2014-06-25,Honduras,Switzerland,0,3,FIFA World Cup,Manaus,Brazil,True,honduras,switzerland,2014,33,731.0,2014-06-05,6,1149.0,2014-06-05,27,-418.0
+2014-06-25,Nigeria,Argentina,2,3,FIFA World Cup,Porto Alegre,Brazil,True,nigeria,argentina,2014,44,640.0,2014-06-05,5,1175.0,2014-06-05,39,-535.0
+2014-06-26,United States,Germany,0,1,FIFA World Cup,Recife,Brazil,True,usa,germany,2014,13,1035.0,2014-06-05,2,1300.0,2014-06-05,11,-265.0
+2014-06-26,Portugal,Ghana,2,1,FIFA World Cup,Brasília,Brazil,True,portugal,ghana,2014,4,1189.0,2014-06-05,37,704.0,2014-06-05,-33,485.0
+2014-06-26,Algeria,Russia,1,1,FIFA World Cup,Curitiba,Brazil,True,algeria,russia,2014,22,858.0,2014-06-05,19,893.0,2014-06-05,3,-35.0
+2014-06-26,South Korea,Belgium,0,1,FIFA World Cup,São Paulo,Brazil,True,korea republic,belgium,2014,57,547.0,2014-06-05,11,1074.0,2014-06-05,46,-527.0
+2014-06-28,Brazil,Chile,1,1,FIFA World Cup,Belo Horizonte,Brazil,False,brazil,chile,2014,3,1242.0,2014-06-05,14,1026.0,2014-06-05,-11,216.0
+2014-06-28,Colombia,Uruguay,2,0,FIFA World Cup,Rio de Janeiro,Brazil,True,colombia,uruguay,2014,8,1137.0,2014-06-05,7,1147.0,2014-06-05,1,-10.0
+2014-06-29,Costa Rica,Greece,1,1,FIFA World Cup,Recife,Brazil,True,costa rica,greece,2014,28,762.0,2014-06-05,12,1064.0,2014-06-05,16,-302.0
+2014-06-29,Netherlands,Mexico,2,1,FIFA World Cup,Fortaleza,Brazil,True,netherlands,mexico,2014,15,981.0,2014-06-05,20,882.0,2014-06-05,-5,99.0
+2014-06-30,France,Nigeria,2,0,FIFA World Cup,Brasília,Brazil,True,france,nigeria,2014,17,913.0,2014-06-05,44,640.0,2014-06-05,-27,273.0
+2014-06-30,Germany,Algeria,2,1,FIFA World Cup,Porto Alegre,Brazil,True,germany,algeria,2014,2,1300.0,2014-06-05,22,858.0,2014-06-05,-20,442.0
+2014-07-01,Argentina,Switzerland,1,0,FIFA World Cup,São Paulo,Brazil,True,argentina,switzerland,2014,5,1175.0,2014-06-05,6,1149.0,2014-06-05,-1,26.0
+2014-07-01,Belgium,United States,2,1,FIFA World Cup,Salvador,Brazil,True,belgium,usa,2014,11,1074.0,2014-06-05,13,1035.0,2014-06-05,-2,39.0
+2014-07-04,Brazil,Colombia,2,1,FIFA World Cup,Fortaleza,Brazil,False,brazil,colombia,2014,3,1242.0,2014-06-05,8,1137.0,2014-06-05,-5,105.0
+2014-07-04,France,Germany,0,1,FIFA World Cup,Rio de Janeiro,Brazil,True,france,germany,2014,17,913.0,2014-06-05,2,1300.0,2014-06-05,15,-387.0
+2014-07-05,Netherlands,Costa Rica,0,0,FIFA World Cup,Salvador,Brazil,True,netherlands,costa rica,2014,15,981.0,2014-06-05,28,762.0,2014-06-05,-13,219.0
+2014-07-05,Argentina,Belgium,1,0,FIFA World Cup,Brasília,Brazil,True,argentina,belgium,2014,5,1175.0,2014-06-05,11,1074.0,2014-06-05,-6,101.0
+2014-07-08,Brazil,Germany,1,7,FIFA World Cup,Belo Horizonte,Brazil,False,brazil,germany,2014,3,1242.0,2014-06-05,2,1300.0,2014-06-05,1,-58.0
+2014-07-09,Netherlands,Argentina,0,0,FIFA World Cup,São Paulo,Brazil,True,netherlands,argentina,2014,15,981.0,2014-06-05,5,1175.0,2014-06-05,10,-194.0
+2014-07-12,Brazil,Netherlands,0,3,FIFA World Cup,Brasília,Brazil,False,brazil,netherlands,2014,3,1242.0,2014-06-05,15,981.0,2014-06-05,-12,261.0
+2014-07-13,Germany,Argentina,1,0,FIFA World Cup,Rio de Janeiro,Brazil,True,germany,argentina,2014,2,1300.0,2014-06-05,5,1175.0,2014-06-05,-3,125.0
+2018-06-14,Russia,Saudi Arabia,5,0,FIFA World Cup,Moscow,Russia,False,russia,saudi arabia,2018,70,457.0,2018-06-07,67,465.0,2018-06-07,3,-8.0
+2018-06-15,Portugal,Spain,3,3,FIFA World Cup,Sochi,Russia,True,portugal,spain,2018,4,1274.0,2018-06-07,10,1126.0,2018-06-07,-6,148.0
+2018-06-15,Egypt,Uruguay,0,1,FIFA World Cup,Ekaterinburg,Russia,True,egypt,uruguay,2018,45,649.0,2018-06-07,14,1018.0,2018-06-07,31,-369.0
+2018-06-15,Morocco,Iran,0,1,FIFA World Cup,Saint Petersburg,Russia,True,morocco,ir iran,2018,41,686.0,2018-06-07,37,708.0,2018-06-07,4,-22.0
+2018-06-16,France,Australia,2,1,FIFA World Cup,Kazan,Russia,True,france,australia,2018,7,1198.0,2018-06-07,36,718.0,2018-06-07,-29,480.0
+2018-06-16,Argentina,Iceland,1,1,FIFA World Cup,Moscow,Russia,True,argentina,iceland,2018,5,1241.0,2018-06-07,22,908.0,2018-06-07,-17,333.0
+2018-06-16,Peru,Denmark,0,1,FIFA World Cup,Saransk,Russia,True,peru,denmark,2018,11,1125.0,2018-06-07,12,1051.0,2018-06-07,-1,74.0
+2018-06-16,Croatia,Nigeria,2,0,FIFA World Cup,Kaliningrad,Russia,True,croatia,nigeria,2018,20,945.0,2018-06-07,48,618.0,2018-06-07,-28,327.0
+2018-06-17,Costa Rica,Serbia,0,1,FIFA World Cup,Samara,Russia,True,costa rica,serbia,2018,23,884.0,2018-06-07,34,751.0,2018-06-07,-11,133.0
+2018-06-17,Germany,Mexico,0,1,FIFA World Cup,Moscow,Russia,True,germany,mexico,2018,1,1558.0,2018-06-07,15,989.0,2018-06-07,-14,569.0
+2018-06-17,Brazil,Switzerland,1,1,FIFA World Cup,Rostov-on-Don,Russia,True,brazil,switzerland,2018,2,1431.0,2018-06-07,6,1199.0,2018-06-07,-4,232.0
+2018-06-18,Sweden,South Korea,1,0,FIFA World Cup,Nizhny Novgorod,Russia,True,sweden,korea republic,2018,24,880.0,2018-06-07,57,544.0,2018-06-07,-33,336.0
+2018-06-18,Belgium,Panama,3,0,FIFA World Cup,Sochi,Russia,True,belgium,panama,2018,3,1298.0,2018-06-07,55,571.0,2018-06-07,-52,727.0
+2018-06-18,Tunisia,England,1,2,FIFA World Cup,Volgograd,Russia,True,tunisia,england,2018,21,910.0,2018-06-07,12,1051.0,2018-06-07,9,-141.0
+2018-06-19,Colombia,Japan,1,2,FIFA World Cup,Saransk,Russia,True,colombia,japan,2018,16,986.0,2018-06-07,61,521.0,2018-06-07,-45,465.0
+2018-06-19,Poland,Senegal,1,2,FIFA World Cup,Moscow,Russia,True,poland,senegal,2018,8,1183.0,2018-06-07,27,838.0,2018-06-07,-19,345.0
+2018-06-19,Russia,Egypt,3,1,FIFA World Cup,Saint Petersburg,Russia,False,russia,egypt,2018,70,457.0,2018-06-07,45,649.0,2018-06-07,25,-192.0
+2018-06-20,Iran,Spain,0,1,FIFA World Cup,Kazan,Russia,True,ir iran,spain,2018,37,708.0,2018-06-07,10,1126.0,2018-06-07,27,-418.0
+2018-06-20,Uruguay,Saudi Arabia,1,0,FIFA World Cup,Rostov-on-Don,Russia,True,uruguay,saudi arabia,2018,14,1018.0,2018-06-07,67,465.0,2018-06-07,-53,553.0
+2018-06-20,Portugal,Morocco,1,0,FIFA World Cup,Moscow,Russia,True,portugal,morocco,2018,4,1274.0,2018-06-07,41,686.0,2018-06-07,-37,588.0
+2018-06-21,Denmark,Australia,1,1,FIFA World Cup,Samara,Russia,True,denmark,australia,2018,12,1051.0,2018-06-07,36,718.0,2018-06-07,-24,333.0
+2018-06-21,France,Peru,1,0,FIFA World Cup,Ekaterinburg,Russia,True,france,peru,2018,7,1198.0,2018-06-07,11,1125.0,2018-06-07,-4,73.0
+2018-06-21,Argentina,Croatia,0,3,FIFA World Cup,Nizhny Novgorod,Russia,True,argentina,croatia,2018,5,1241.0,2018-06-07,20,945.0,2018-06-07,-15,296.0
+2018-06-22,Brazil,Costa Rica,2,0,FIFA World Cup,Saint Petersburg,Russia,True,brazil,costa rica,2018,2,1431.0,2018-06-07,23,884.0,2018-06-07,-21,547.0
+2018-06-22,Nigeria,Iceland,2,0,FIFA World Cup,Volgograd,Russia,True,nigeria,iceland,2018,48,618.0,2018-06-07,22,908.0,2018-06-07,26,-290.0
+2018-06-22,Serbia,Switzerland,1,2,FIFA World Cup,Kaliningrad,Russia,True,serbia,switzerland,2018,34,751.0,2018-06-07,6,1199.0,2018-06-07,28,-448.0
+2018-06-23,Belgium,Tunisia,5,2,FIFA World Cup,Moscow,Russia,True,belgium,tunisia,2018,3,1298.0,2018-06-07,21,910.0,2018-06-07,-18,388.0
+2018-06-23,South Korea,Mexico,1,2,FIFA World Cup,Rostov-on-Don,Russia,True,korea republic,mexico,2018,57,544.0,2018-06-07,15,989.0,2018-06-07,42,-445.0
+2018-06-23,Germany,Sweden,2,1,FIFA World Cup,Sochi,Russia,True,germany,sweden,2018,1,1558.0,2018-06-07,24,880.0,2018-06-07,-23,678.0
+2018-06-24,Poland,Colombia,0,3,FIFA World Cup,Kazan,Russia,True,poland,colombia,2018,8,1183.0,2018-06-07,16,986.0,2018-06-07,-8,197.0
+2018-06-24,England,Panama,6,1,FIFA World Cup,Nizhny Novgorod,Russia,True,england,panama,2018,12,1051.0,2018-06-07,55,571.0,2018-06-07,-43,480.0
+2018-06-24,Japan,Senegal,2,2,FIFA World Cup,Ekaterinburg,Russia,True,japan,senegal,2018,61,521.0,2018-06-07,27,838.0,2018-06-07,34,-317.0
+2018-06-25,Russia,Uruguay,0,3,FIFA World Cup,Samara,Russia,False,russia,uruguay,2018,70,457.0,2018-06-07,14,1018.0,2018-06-07,56,-561.0
+2018-06-25,Saudi Arabia,Egypt,2,1,FIFA World Cup,Volgograd,Russia,True,saudi arabia,egypt,2018,67,465.0,2018-06-07,45,649.0,2018-06-07,22,-184.0
+2018-06-25,Spain,Morocco,2,2,FIFA World Cup,Kaliningrad,Russia,True,spain,morocco,2018,10,1126.0,2018-06-07,41,686.0,2018-06-07,-31,440.0
+2018-06-25,Iran,Portugal,1,1,FIFA World Cup,Saransk,Russia,True,ir iran,portugal,2018,37,708.0,2018-06-07,4,1274.0,2018-06-07,33,-566.0
+2018-06-26,Iceland,Croatia,1,2,FIFA World Cup,Rostov-on-Don,Russia,True,iceland,croatia,2018,22,908.0,2018-06-07,20,945.0,2018-06-07,2,-37.0
+2018-06-26,Australia,Peru,0,2,FIFA World Cup,Sochi,Russia,True,australia,peru,2018,36,718.0,2018-06-07,11,1125.0,2018-06-07,25,-407.0
+2018-06-26,Denmark,France,0,0,FIFA World Cup,Moscow,Russia,True,denmark,france,2018,12,1051.0,2018-06-07,7,1198.0,2018-06-07,5,-147.0
+2018-06-26,Nigeria,Argentina,1,2,FIFA World Cup,Saint Petersburg,Russia,True,nigeria,argentina,2018,48,618.0,2018-06-07,5,1241.0,2018-06-07,43,-623.0
+2018-06-27,Serbia,Brazil,0,2,FIFA World Cup,Moscow,Russia,True,serbia,brazil,2018,34,751.0,2018-06-07,2,1431.0,2018-06-07,32,-680.0
+2018-06-27,Switzerland,Costa Rica,2,2,FIFA World Cup,Nizhny Novgorod,Russia,True,switzerland,costa rica,2018,6,1199.0,2018-06-07,23,884.0,2018-06-07,-17,315.0
+2018-06-27,South Korea,Germany,2,0,FIFA World Cup,Kazan,Russia,True,korea republic,germany,2018,57,544.0,2018-06-07,1,1558.0,2018-06-07,56,-1014.0
+2018-06-27,Mexico,Sweden,0,3,FIFA World Cup,Ekaterinburg,Russia,True,mexico,sweden,2018,15,989.0,2018-06-07,24,880.0,2018-06-07,-9,109.0
+2018-06-28,England,Belgium,0,1,FIFA World Cup,Kaliningrad,Russia,True,england,belgium,2018,12,1051.0,2018-06-07,3,1298.0,2018-06-07,9,-247.0
+2018-06-28,Panama,Tunisia,1,2,FIFA World Cup,Saransk,Russia,True,panama,tunisia,2018,55,571.0,2018-06-07,21,910.0,2018-06-07,34,-339.0
+2018-06-28,Senegal,Colombia,0,1,FIFA World Cup,Samara,Russia,True,senegal,colombia,2018,27,838.0,2018-06-07,16,986.0,2018-06-07,11,-148.0
+2018-06-28,Japan,Poland,0,1,FIFA World Cup,Volgograd,Russia,True,japan,poland,2018,61,521.0,2018-06-07,8,1183.0,2018-06-07,53,-662.0
+2018-06-30,France,Argentina,4,3,FIFA World Cup,Kazan,Russia,True,france,argentina,2018,7,1198.0,2018-06-07,5,1241.0,2018-06-07,2,-43.0
+2018-06-30,Uruguay,Portugal,2,1,FIFA World Cup,Sochi,Russia,True,uruguay,portugal,2018,14,1018.0,2018-06-07,4,1274.0,2018-06-07,10,-256.0
+2018-07-01,Russia,Spain,1,1,FIFA World Cup,Moscow,Russia,False,russia,spain,2018,70,457.0,2018-06-07,10,1126.0,2018-06-07,60,-669.0
+2018-07-01,Croatia,Denmark,1,1,FIFA World Cup,Nizhny Novgorod,Russia,True,croatia,denmark,2018,20,945.0,2018-06-07,12,1051.0,2018-06-07,8,-106.0
+2018-07-02,Brazil,Mexico,2,0,FIFA World Cup,Samara,Russia,True,brazil,mexico,2018,2,1431.0,2018-06-07,15,989.0,2018-06-07,-13,442.0
+2018-07-02,Belgium,Japan,3,2,FIFA World Cup,Rostov-on-Don,Russia,True,belgium,japan,2018,3,1298.0,2018-06-07,61,521.0,2018-06-07,-58,777.0
+2018-07-03,Colombia,England,1,1,FIFA World Cup,Moscow,Russia,True,colombia,england,2018,16,986.0,2018-06-07,12,1051.0,2018-06-07,4,-65.0
+2018-07-03,Sweden,Switzerland,1,0,FIFA World Cup,Saint Petersburg,Russia,True,sweden,switzerland,2018,24,880.0,2018-06-07,6,1199.0,2018-06-07,18,-319.0
+2018-07-06,Brazil,Belgium,1,2,FIFA World Cup,Kazan,Russia,True,brazil,belgium,2018,2,1431.0,2018-06-07,3,1298.0,2018-06-07,-1,133.0
+2018-07-06,Uruguay,France,0,2,FIFA World Cup,Nizhny Novgorod,Russia,True,uruguay,france,2018,14,1018.0,2018-06-07,7,1198.0,2018-06-07,7,-180.0
+2018-07-07,Sweden,England,0,2,FIFA World Cup,Samara,Russia,True,sweden,england,2018,24,880.0,2018-06-07,12,1051.0,2018-06-07,12,-171.0
+2018-07-07,Russia,Croatia,2,2,FIFA World Cup,Sochi,Russia,False,russia,croatia,2018,70,457.0,2018-06-07,20,945.0,2018-06-07,50,-488.0
+2018-07-10,France,Belgium,1,0,FIFA World Cup,Saint Petersburg,Russia,True,france,belgium,2018,7,1198.0,2018-06-07,3,1298.0,2018-06-07,4,-100.0
+2018-07-11,Croatia,England,2,1,FIFA World Cup,Moscow,Russia,True,croatia,england,2018,20,945.0,2018-06-07,12,1051.0,2018-06-07,8,-106.0
+2018-07-14,Belgium,England,2,0,FIFA World Cup,Saint Petersburg,Russia,True,belgium,england,2018,3,1298.0,2018-06-07,12,1051.0,2018-06-07,-9,247.0
+2018-07-15,France,Croatia,4,2,FIFA World Cup,Moscow,Russia,True,france,croatia,2018,7,1198.0,2018-06-07,20,945.0,2018-06-07,-13,253.0
+2022-11-20,Qatar,Ecuador,0,2,FIFA World Cup,Al Khor,Qatar,False,qatar,ecuador,2022,50,1439.89,2022-10-06,44,1464.39,2022-10-06,6,-24.5
+2022-11-21,Senegal,Netherlands,0,2,FIFA World Cup,Doha,Qatar,True,senegal,netherlands,2022,18,1584.38,2022-10-06,8,1694.51,2022-10-06,10,-110.12999999999988
+2022-11-21,England,Iran,6,2,FIFA World Cup,Al Rayyan,Qatar,True,england,ir iran,2022,5,1728.47,2022-10-06,20,1564.61,2022-10-06,-15,163.86000000000013
+2022-11-21,United States,Wales,1,1,FIFA World Cup,Al Rayyan,Qatar,True,usa,wales,2022,16,1627.48,2022-10-06,19,1569.82,2022-10-06,-3,57.66000000000008
+2022-11-22,France,Australia,4,1,FIFA World Cup,Al Wakrah,Qatar,True,france,australia,2022,4,1759.78,2022-10-06,38,1488.72,2022-10-06,-34,271.05999999999995
+2022-11-22,Denmark,Tunisia,0,0,FIFA World Cup,Al Rayyan,Qatar,True,denmark,tunisia,2022,10,1666.57,2022-10-06,30,1507.54,2022-10-06,-20,159.02999999999997
+2022-11-22,Argentina,Saudi Arabia,1,2,FIFA World Cup,Lusail,Qatar,True,argentina,saudi arabia,2022,3,1773.88,2022-10-06,51,1437.78,2022-10-06,-48,336.10000000000014
+2022-11-22,Mexico,Poland,0,0,FIFA World Cup,Doha,Qatar,True,mexico,poland,2022,13,1644.89,2022-10-06,26,1548.59,2022-10-06,-13,96.30000000000018
+2022-11-23,Germany,Japan,1,2,FIFA World Cup,Al Rayyan,Qatar,True,germany,japan,2022,11,1650.21,2022-10-06,24,1559.54,2022-10-06,-13,90.67000000000007
+2022-11-23,Spain,Costa Rica,7,0,FIFA World Cup,Doha,Qatar,True,spain,costa rica,2022,7,1715.22,2022-10-06,31,1503.59,2022-10-06,-24,211.6300000000001
+2022-11-23,Morocco,Croatia,0,0,FIFA World Cup,Al Khor,Qatar,True,morocco,croatia,2022,22,1563.5,2022-10-06,12,1645.64,2022-10-06,10,-82.1400000000001
+2022-11-23,Belgium,Canada,1,0,FIFA World Cup,Al Rayyan,Qatar,True,belgium,canada,2022,2,1816.71,2022-10-06,41,1475.0,2022-10-06,-39,341.71000000000004
+2022-11-24,Switzerland,Cameroon,1,0,FIFA World Cup,Al Wakrah,Qatar,True,switzerland,cameroon,2022,15,1635.92,2022-10-06,43,1471.44,2022-10-06,-28,164.48000000000002
+2022-11-24,Brazil,Serbia,2,0,FIFA World Cup,Lusail,Qatar,True,brazil,serbia,2022,1,1841.3,2022-10-06,21,1563.62,2022-10-06,-20,277.68000000000006
+2022-11-24,Uruguay,South Korea,0,0,FIFA World Cup,Al Rayyan,Qatar,True,uruguay,korea republic,2022,14,1638.71,2022-10-06,28,1530.3,2022-10-06,-14,108.41000000000008
+2022-11-24,Portugal,Ghana,3,2,FIFA World Cup,Doha,Qatar,True,portugal,ghana,2022,9,1676.56,2022-10-06,61,1393.0,2022-10-06,-52,283.55999999999995
+2022-11-25,England,United States,0,0,FIFA World Cup,Al Khor,Qatar,True,england,usa,2022,5,1728.47,2022-10-06,16,1627.48,2022-10-06,-11,100.99000000000001
+2022-11-25,Qatar,Senegal,1,3,FIFA World Cup,Doha,Qatar,False,qatar,senegal,2022,50,1439.89,2022-10-06,18,1584.38,2022-10-06,32,-144.49
+2022-11-25,Netherlands,Ecuador,1,1,FIFA World Cup,Al Rayyan,Qatar,True,netherlands,ecuador,2022,8,1694.51,2022-10-06,44,1464.39,2022-10-06,-36,230.1199999999999
+2022-11-25,Wales,Iran,0,2,FIFA World Cup,Al Rayyan,Qatar,True,wales,ir iran,2022,19,1569.82,2022-10-06,20,1564.61,2022-10-06,-1,5.210000000000036
+2022-11-26,Argentina,Mexico,2,0,FIFA World Cup,Lusail,Qatar,True,argentina,mexico,2022,3,1773.88,2022-10-06,13,1644.89,2022-10-06,-10,128.99
+2022-11-26,Tunisia,Australia,0,1,FIFA World Cup,Al Wakrah,Qatar,True,tunisia,australia,2022,30,1507.54,2022-10-06,38,1488.72,2022-10-06,-8,18.819999999999936
+2022-11-26,Poland,Saudi Arabia,2,0,FIFA World Cup,Al Rayyan,Qatar,True,poland,saudi arabia,2022,26,1548.59,2022-10-06,51,1437.78,2022-10-06,-25,110.80999999999995
+2022-11-26,France,Denmark,2,1,FIFA World Cup,Doha,Qatar,True,france,denmark,2022,4,1759.78,2022-10-06,10,1666.57,2022-10-06,-6,93.21000000000004
+2022-11-27,Croatia,Canada,4,1,FIFA World Cup,Al Rayyan,Qatar,True,croatia,canada,2022,12,1645.64,2022-10-06,41,1475.0,2022-10-06,-29,170.6400000000001
+2022-11-27,Belgium,Morocco,0,2,FIFA World Cup,Doha,Qatar,True,belgium,morocco,2022,2,1816.71,2022-10-06,22,1563.5,2022-10-06,-20,253.21000000000004
+2022-11-27,Japan,Costa Rica,0,1,FIFA World Cup,Al Rayyan,Qatar,True,japan,costa rica,2022,24,1559.54,2022-10-06,31,1503.59,2022-10-06,-7,55.950000000000045
+2022-11-27,Spain,Germany,1,1,FIFA World Cup,Al Khor,Qatar,True,spain,germany,2022,7,1715.22,2022-10-06,11,1650.21,2022-10-06,-4,65.00999999999999
+2022-11-28,Cameroon,Serbia,3,3,FIFA World Cup,Al Wakrah,Qatar,True,cameroon,serbia,2022,43,1471.44,2022-10-06,21,1563.62,2022-10-06,22,-92.17999999999984
+2022-11-28,Brazil,Switzerland,1,0,FIFA World Cup,Doha,Qatar,True,brazil,switzerland,2022,1,1841.3,2022-10-06,15,1635.92,2022-10-06,-14,205.37999999999988
+2022-11-28,South Korea,Ghana,2,3,FIFA World Cup,Al Rayyan,Qatar,True,korea republic,ghana,2022,28,1530.3,2022-10-06,61,1393.0,2022-10-06,-33,137.29999999999995
+2022-11-28,Portugal,Uruguay,2,0,FIFA World Cup,Lusail,Qatar,True,portugal,uruguay,2022,9,1676.56,2022-10-06,14,1638.71,2022-10-06,-5,37.84999999999991
+2022-11-29,Ecuador,Senegal,1,2,FIFA World Cup,Al Rayyan,Qatar,True,ecuador,senegal,2022,44,1464.39,2022-10-06,18,1584.38,2022-10-06,26,-119.99000000000001
+2022-11-29,Qatar,Netherlands,0,2,FIFA World Cup,Al Khor,Qatar,False,qatar,netherlands,2022,50,1439.89,2022-10-06,8,1694.51,2022-10-06,42,-254.6199999999999
+2022-11-29,Wales,England,0,3,FIFA World Cup,Al Rayyan,Qatar,True,wales,england,2022,19,1569.82,2022-10-06,5,1728.47,2022-10-06,14,-158.6500000000001
+2022-11-29,Iran,United States,0,1,FIFA World Cup,Doha,Qatar,True,ir iran,usa,2022,20,1564.61,2022-10-06,16,1627.48,2022-10-06,4,-62.87000000000012
+2022-11-30,Poland,Argentina,0,2,FIFA World Cup,Doha,Qatar,True,poland,argentina,2022,26,1548.59,2022-10-06,3,1773.88,2022-10-06,23,-225.2900000000002
+2022-11-30,Saudi Arabia,Mexico,1,2,FIFA World Cup,Lusail,Qatar,True,saudi arabia,mexico,2022,51,1437.78,2022-10-06,13,1644.89,2022-10-06,38,-207.11000000000013
+2022-11-30,Australia,Denmark,1,0,FIFA World Cup,Al Wakrah,Qatar,True,australia,denmark,2022,38,1488.72,2022-10-06,10,1666.57,2022-10-06,28,-177.8499999999999
+2022-11-30,Tunisia,France,1,0,FIFA World Cup,Al Rayyan,Qatar,True,tunisia,france,2022,30,1507.54,2022-10-06,4,1759.78,2022-10-06,26,-252.24
+2022-12-01,Canada,Morocco,1,2,FIFA World Cup,Doha,Qatar,True,canada,morocco,2022,41,1475.0,2022-10-06,22,1563.5,2022-10-06,19,-88.5
+2022-12-01,Croatia,Belgium,0,0,FIFA World Cup,Al Rayyan,Qatar,True,croatia,belgium,2022,12,1645.64,2022-10-06,2,1816.71,2022-10-06,10,-171.06999999999994
+2022-12-01,Costa Rica,Germany,2,4,FIFA World Cup,Al Khor,Qatar,True,costa rica,germany,2022,31,1503.59,2022-10-06,11,1650.21,2022-10-06,20,-146.62000000000012
+2022-12-01,Japan,Spain,2,1,FIFA World Cup,Al Rayyan,Qatar,True,japan,spain,2022,24,1559.54,2022-10-06,7,1715.22,2022-10-06,17,-155.68000000000006
+2022-12-02,Serbia,Switzerland,2,3,FIFA World Cup,Doha,Qatar,True,serbia,switzerland,2022,21,1563.62,2022-10-06,15,1635.92,2022-10-06,6,-72.30000000000018
+2022-12-02,Cameroon,Brazil,1,0,FIFA World Cup,Lusail,Qatar,True,cameroon,brazil,2022,43,1471.44,2022-10-06,1,1841.3,2022-10-06,42,-369.8599999999999
+2022-12-02,Ghana,Uruguay,0,2,FIFA World Cup,Al Wakrah,Qatar,True,ghana,uruguay,2022,61,1393.0,2022-10-06,14,1638.71,2022-10-06,47,-245.71000000000004
+2022-12-02,South Korea,Portugal,2,1,FIFA World Cup,Al Rayyan,Qatar,True,korea republic,portugal,2022,28,1530.3,2022-10-06,9,1676.56,2022-10-06,19,-146.26
+2022-12-03,Netherlands,United States,3,1,FIFA World Cup,Al Rayyan,Qatar,True,netherlands,usa,2022,8,1694.51,2022-10-06,16,1627.48,2022-10-06,-8,67.02999999999997
+2022-12-03,Argentina,Australia,2,1,FIFA World Cup,Al Rayyan,Qatar,True,argentina,australia,2022,3,1773.88,2022-10-06,38,1488.72,2022-10-06,-35,285.1600000000001
+2022-12-04,France,Poland,3,1,FIFA World Cup,Doha,Qatar,True,france,poland,2022,4,1759.78,2022-10-06,26,1548.59,2022-10-06,-22,211.19000000000005
+2022-12-04,England,Senegal,3,0,FIFA World Cup,Al Khor,Qatar,True,england,senegal,2022,5,1728.47,2022-10-06,18,1584.38,2022-10-06,-13,144.08999999999992
+2022-12-05,Japan,Croatia,1,1,FIFA World Cup,Al Wakrah,Qatar,True,japan,croatia,2022,24,1559.54,2022-10-06,12,1645.64,2022-10-06,12,-86.10000000000014
+2022-12-05,Brazil,South Korea,4,1,FIFA World Cup,Doha,Qatar,True,brazil,korea republic,2022,1,1841.3,2022-10-06,28,1530.3,2022-10-06,-27,311.0
+2022-12-06,Morocco,Spain,0,0,FIFA World Cup,Al Rayyan,Qatar,True,morocco,spain,2022,22,1563.5,2022-10-06,7,1715.22,2022-10-06,15,-151.72000000000003
+2022-12-06,Portugal,Switzerland,6,1,FIFA World Cup,Lusail,Qatar,True,portugal,switzerland,2022,9,1676.56,2022-10-06,15,1635.92,2022-10-06,-6,40.63999999999987
+2022-12-09,Netherlands,Argentina,2,2,FIFA World Cup,Lusail,Qatar,True,netherlands,argentina,2022,8,1694.51,2022-10-06,3,1773.88,2022-10-06,5,-79.37000000000012
+2022-12-09,Croatia,Brazil,1,1,FIFA World Cup,Al Rayyan,Qatar,True,croatia,brazil,2022,12,1645.64,2022-10-06,1,1841.3,2022-10-06,11,-195.65999999999985
+2022-12-10,Morocco,Portugal,1,0,FIFA World Cup,Doha,Qatar,True,morocco,portugal,2022,22,1563.5,2022-10-06,9,1676.56,2022-10-06,13,-113.05999999999995
+2022-12-10,England,France,1,2,FIFA World Cup,Al Khor,Qatar,True,england,france,2022,5,1728.47,2022-10-06,4,1759.78,2022-10-06,1,-31.309999999999945
+2022-12-13,Argentina,Croatia,3,0,FIFA World Cup,Lusail,Qatar,True,argentina,croatia,2022,3,1773.88,2022-10-06,12,1645.64,2022-10-06,-9,128.24
+2022-12-14,France,Morocco,2,0,FIFA World Cup,Al Khor,Qatar,True,france,morocco,2022,4,1759.78,2022-10-06,22,1563.5,2022-10-06,-18,196.27999999999997
+2022-12-17,Croatia,Morocco,2,1,FIFA World Cup,Al Rayyan,Qatar,True,croatia,morocco,2022,12,1645.64,2022-10-06,22,1563.5,2022-10-06,-10,82.1400000000001
+2022-12-18,Argentina,France,3,3,FIFA World Cup,Lusail,Qatar,True,argentina,france,2022,3,1773.88,2022-10-06,4,1759.78,2022-10-06,-1,14.100000000000136

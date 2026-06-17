@@ -1,0 +1,5 @@
+dataset,rows,date_min,date_max
+fifa_rankings_worldcup_snapshots,631,2014-06-05,2022-10-06
+international_results_since_wc2014_qualifying,14538,2011-06-15,2026-06-07
+worldcup_2014_2018_2022_matches_with_pre_tournament_rankings,192,2014-06-12,2022-12-18
+fifa_ranking_2022-12-22_post_tournament_reference,211,2022-12-22,2022-12-22
