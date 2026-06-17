@@ -62,8 +62,11 @@ All features are computed **leak-free** (only information available before each 
   cards occur with a low per-match probability (uncommon, but they happen). The source has
   no corner/card data, so these are principled heuristics rather than fitted values.
 
-**Validation:** goal MAE ≈ 0.96 (close to the irreducible noise floor of football),
-exact-score ≈ 12%.
+**Validation:** goal MAE ≈ **0.87 on recent major-tournament matches** (Euro 2024,
+Copa América 2024, AFCON, WC 2022 — the games most like the World Cup), and ≈ 0.95 across
+*all* recent internationals. Tournament error is lower mainly because those games are
+lower-scoring (fewer goals → smaller absolute errors), not because the model is sharper
+there. Either way it's close to the irreducible noise floor of football. Exact-score ≈ 12%.
 
 ## Repository layout
 
